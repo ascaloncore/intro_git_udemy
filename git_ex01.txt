@@ -16,6 +16,10 @@ hello again!!
 
 5) git log
 
-6) git rm "fail name"
+6) git rm "file name"
 
 7) git status origin/master
+
+8) git log --oneline -n 3
+    git log -p "file name"
+    git log --oneline 
