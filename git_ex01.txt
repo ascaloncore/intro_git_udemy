@@ -17,3 +17,5 @@ hello again!!
 5) git log
 
 6) git rm "fail name"
+
+7) git status origin/master
