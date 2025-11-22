@@ -2,3 +2,12 @@ hello
 this is the sample of git training
 
 hello again!!
+
+1) staging area 
+ git add .
+
+2) local repository
+ git commit -m
+
+3) remote repository
+ git push
