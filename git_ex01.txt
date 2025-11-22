@@ -11,3 +11,9 @@ hello again!!
 
 3) remote repository
  git push
+
+4) git status
+
+5) git log
+
+6) git rm "fail name"
